@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621333441 source:c:\users\asus\documents\c++\itp homework\main.c
+	<stdio.h>
+	<stdlib.h>
+
